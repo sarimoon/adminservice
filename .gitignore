@@ -1,0 +1,6 @@
+data/images/
+import/
+node_modules/
+routes_temp/
+**/*.bak
+query.txt
